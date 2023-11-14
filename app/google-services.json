@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45552817400",
+    "project_id": "lucky-razor-return",
+    "storage_bucket": "lucky-razor-return.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45552817400:android:bd4cb58b7b9797aaff970d",
+        "android_client_info": {
+          "package_name": "wiz.lucky.razorreturn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45552817400-dgifvmmletnnp5bsrmdv3pg1didr60vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--dCJhzOgusrCTXk36cpfwxmFP_YQQ18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45552817400-dgifvmmletnnp5bsrmdv3pg1didr60vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
